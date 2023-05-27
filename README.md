@@ -36,6 +36,6 @@ There are buttons on the page. The **Download transaction data** button enables 
 
 ## Sample Page 
 
-After inputting an ETH address and starting block you should be a page similar to the one below:
+After inputting an ETH address and a starting block, you should get a page similar to the one below:
 
 ![SamplePage](https://private-user-images.githubusercontent.com/51446308/241422405-cbca2aa8-42ee-4e93-9918-32e0c2ca2253.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg1MjEyNDIwLCJuYmYiOjE2ODUyMTIxMjAsInBhdGgiOiIvNTE0NDYzMDgvMjQxNDIyNDA1LWNiY2EyYWE4LTQyZWUtNGU5My05OTE4LTMyZTBjMmNhMjI1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDUyN1QxODI4NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjdlNTFkZThhNjc4ZGYxYmJjODc5YzUxZjQ5MDYzMTg4MTViMzUxN2E0YmQ0MTBhYWE5ZGE2NzJiYWZhMWNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MguJTSScKVZ7Mgda3QtWLDkSUEGrTIuqtED1M9dWQZc)
